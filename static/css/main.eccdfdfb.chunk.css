@@ -1,2 +1,2 @@
 .App{text-align:center;margin:0;padding:0}.todo-list{margin:0 auto;width:500px;height:25px}.todo__item{display:flex;flex-direction:column}.button,.error{display:flex;justify-content:center;align-items:center}.error{background-color:#f04141}.todo{list-style-type:none}.todo--item{font:2em sans-serif}.todo--item:before{content:counter(item,disc) " ";color:red}
-/*# sourceMappingURL=main.48d72aae.chunk.css.map */
+/*# sourceMappingURL=main.eccdfdfb.chunk.css.map */
